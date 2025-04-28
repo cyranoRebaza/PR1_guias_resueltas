@@ -124,5 +124,6 @@ int main()
     // - Mostrar el costo total
     cout << "El costo total es: $ " << costoTotal << endl;
 
+    system("pause");
     return 0;
 }
